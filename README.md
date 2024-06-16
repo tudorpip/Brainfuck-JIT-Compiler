@@ -19,7 +19,7 @@ To use this JIT compiler, follow these steps:
    ./brainfuck <path_to_brainfuck_file>
 
 For example, to run a file named `long.b`, you would use:
-./brainfuck long.b
+./brainfuck benchmarks/long.b
 
 ## Project Structure
 
